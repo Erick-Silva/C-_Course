@@ -1,0 +1,15 @@
+C:\dev\learn\App1\App1\bin\Debug\net6.0\App1.exe
+C:\dev\learn\App1\App1\bin\Debug\net6.0\App1.deps.json
+C:\dev\learn\App1\App1\bin\Debug\net6.0\App1.runtimeconfig.json
+C:\dev\learn\App1\App1\bin\Debug\net6.0\App1.dll
+C:\dev\learn\App1\App1\bin\Debug\net6.0\App1.pdb
+C:\dev\learn\App1\App1\obj\Debug\net6.0\App1.csproj.AssemblyReference.cache
+C:\dev\learn\App1\App1\obj\Debug\net6.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\learn\App1\App1\obj\Debug\net6.0\App1.AssemblyInfoInputs.cache
+C:\dev\learn\App1\App1\obj\Debug\net6.0\App1.AssemblyInfo.cs
+C:\dev\learn\App1\App1\obj\Debug\net6.0\App1.csproj.CoreCompileInputs.cache
+C:\dev\learn\App1\App1\obj\Debug\net6.0\App1.dll
+C:\dev\learn\App1\App1\obj\Debug\net6.0\refint\App1.dll
+C:\dev\learn\App1\App1\obj\Debug\net6.0\App1.pdb
+C:\dev\learn\App1\App1\obj\Debug\net6.0\App1.genruntimeconfig.cache
+C:\dev\learn\App1\App1\obj\Debug\net6.0\ref\App1.dll
